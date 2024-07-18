@@ -6,6 +6,7 @@
 
 ## How To Install The Modules We Need
 
-'''bash
+
+```bash
 pip install -r requirment.txt
-'''
+```
