@@ -10,3 +10,10 @@
 ```bash
 pip install -r requirment.txt
 ```
+
+## Contact
+
+Thanks for checking out my game and I hope you enjoy it! Feel free to contact me.
+
+- Osama Srour
+- https://www.facebook.com/profile.php?id=100057319726147&locale=ar_AR
