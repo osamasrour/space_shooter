@@ -7,10 +7,10 @@ from random import randint, choice
 from configparser import ConfigParser
 from termcolor import colored
 from functools import wraps
-from project.classes.button import Button
-from project.classes.player import Player
-from project.classes.bullet import Bullet
-from project.classes.enemy import Enemy
+from classes.button import Button
+from classes.player import Player
+from classes.bullet import Bullet
+from classes.enemy import Enemy
 
 # ====== set up the game env =======
 pygame.init()
