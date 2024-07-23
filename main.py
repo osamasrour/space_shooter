@@ -1,7 +1,8 @@
 # ====== import some modules =======
+from os import chdir, environ
+environ["PYGAME_HIDE_SUPPORT_PROMPT"] = "1"
 import pygame
 from os.path import join, dirname
-from os import chdir
 from sys import exit
 from random import randint, choice
 from configparser import ConfigParser
